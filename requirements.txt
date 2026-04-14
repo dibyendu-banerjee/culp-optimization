@@ -1,0 +1,5 @@
+pulp
+matplotlib
+tabulate
+numpy
+google-generativeai
