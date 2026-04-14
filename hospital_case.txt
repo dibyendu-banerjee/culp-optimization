@@ -1,0 +1,4 @@
+Each day, at least 2 nurses must be assigned.
+No nurse should work more than 5 shifts per week.
+Each nurse should ideally get at least 2 consecutive days off.
+Night shifts should be distributed fairly.
